@@ -1,4 +1,7 @@
 # DevDojo Maratona Java
+[Criador do curso](https://www.linkedin.com/in/williamsuane/)
+
+[Maratona Java Virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=fn9Nb1lQbqzHp6Jn)
 
 ## Tópicos aprendidos neste repositório:
 
