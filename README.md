@@ -1,6 +1,6 @@
 # DevDojo Maratona Java
 
-## Topicos aprendidos nesse reposito
+## Tópicos aprendidos neste repositório:
 
 - [ ] Manipulação de Strings
 - [ ] Classes e Objetos
