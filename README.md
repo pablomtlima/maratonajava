@@ -5,44 +5,44 @@
 
 ## Tópicos aprendidos neste repositório:
 
-- [ ] 01 - O que esperar do curso
-- [ ] 02 - Como Java Funciona
-- [ ] 03 - Fazendo o download da JDK 15
-- [ ] 04 - Configurando variáveis de ambiente
-- [ ] 05 - Executando compilação manualmente
-- [ ] 06 - Download da IDE IntelliJ Community
-- [ ] 07 - Conhecendo a IDE IntelliJ Community
-- [ ] 08 - Organizando o código em pacotes
-- [ ] 09 - Comentários
-- [ ] 10 - Tipos primitivos pt 01 - Convenções de variáveis
-- [ ] 11 - Tipos primitivos pt 02 - Declaração e tamanho em memória
-- [ ] 12 - Tipos primitivos pt 03 - Casting
-- [ ] 13 - Tipos primitivos pt 04 - Strings
-- [ ] 14 - Tipos primitivos pt 05 - Exercício
-- [ ] 15 - Operadores pt 01 - Aritméticos
-- [ ] 16 - Operadores pt 02 - Relacionais
-- [ ] 17 - Operadores pt 03 - Lógicos AND
-- [ ] 18 - Operadores pt 04 - Lógicos OR
-- [ ] 19 - Operadores pt 05 - Atribuição
-- [ ] 20 - Estruturas Condicionais pt 01 - IF
-- [ ] 21 - Estruturas Condicionais pt 02 - ELSE IF
-- [ ] 22 - Estruturas Condicionais pt 03 - Operador ternário
-- [ ] 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
-- [ ] 24 - Estruturas Condicionais pt 05 - Resolução do exercício
-- [ ] 25 - Estruturas Condicionais pt 06 - Switch
-- [ ] 26 - Estruturas Condicionais pt 07 - Switch exercício
-- [ ] 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
-- [ ] 28 - Estruturas de Repetição pt 02 - Exercício for
-- [ ] 29 - Estruturas de Repetição pt 03 - Break
-- [ ] 30 - Estruturas de Repetição pt 04 - Exercício Break
-- [ ] 31 - Estruturas de Repetição pt 05 - Continue
-- [ ] 32 - Arrays pt 01
-- [ ] 33 - Arrays pt 02
-- [ ] 34 - Arrays pt 03
-- [ ] 35 - Arrays pt 04 - Foreach
-- [ ] 36 - Arrays Multidimensionais pt 01
-- [ ] 37 - Arrays Multidimensionais pt 02 - Foreach
-- [ ] 38 - Arrays Multidimensionais pt 03 - Inicialização
+- [X] 01 - O que esperar do curso
+- [X] 02 - Como Java Funciona
+- [X] 03 - Fazendo o download da JDK 15
+- [X] 04 - Configurando variáveis de ambiente
+- [X] 05 - Executando compilação manualmente
+- [X] 06 - Download da IDE IntelliJ Community
+- [X] 07 - Conhecendo a IDE IntelliJ Community
+- [X] 08 - Organizando o código em pacotes
+- [X] 09 - Comentários
+- [X] 10 - Tipos primitivos pt 01 - Convenções de variáveis
+- [X] 11 - Tipos primitivos pt 02 - Declaração e tamanho em memória
+- [X] 12 - Tipos primitivos pt 03 - Casting
+- [X] 13 - Tipos primitivos pt 04 - Strings
+- [X] 14 - Tipos primitivos pt 05 - Exercício
+- [X] 15 - Operadores pt 01 - Aritméticos
+- [X] 16 - Operadores pt 02 - Relacionais
+- [X] 17 - Operadores pt 03 - Lógicos AND
+- [X] 18 - Operadores pt 04 - Lógicos OR
+- [X] 19 - Operadores pt 05 - Atribuição
+- [X] 20 - Estruturas Condicionais pt 01 - IF
+- [X] 21 - Estruturas Condicionais pt 02 - ELSE IF
+- [X] 22 - Estruturas Condicionais pt 03 - Operador ternário
+- [X] 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
+- [X] 24 - Estruturas Condicionais pt 05 - Resolução do exercício
+- [X] 25 - Estruturas Condicionais pt 06 - Switch
+- [X] 26 - Estruturas Condicionais pt 07 - Switch exercício
+- [X] 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
+- [X] 28 - Estruturas de Repetição pt 02 - Exercício for
+- [X] 29 - Estruturas de Repetição pt 03 - Break
+- [X] 30 - Estruturas de Repetição pt 04 - Exercício Break
+- [X] 31 - Estruturas de Repetição pt 05 - Continue
+- [X] 32 - Arrays pt 01
+- [X] 33 - Arrays pt 02
+- [X] 34 - Arrays pt 03
+- [X] 35 - Arrays pt 04 - Foreach
+- [X] 36 - Arrays Multidimensionais pt 01
+- [X] 37 - Arrays Multidimensionais pt 02 - Foreach
+- [X] 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [ ] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 - [ ] 40 - Orientação Objetos - Introdução classes pt 02
 - [ ] 41 - Orientação Objetos - Introdução classes pt 03
