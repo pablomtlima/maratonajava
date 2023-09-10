@@ -45,8 +45,8 @@
 - [X] 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [X] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 - [X] 40 - Orientação Objetos - Introdução classes pt 02
-- [ ] 41 - Orientação Objetos - Introdução classes pt 03
-- [ ] 42 - Orientação Objetos - Exercício Classes
+- [X] 41 - Orientação Objetos - Introdução classes pt 03
+- [X] 42 - Orientação Objetos - Exercício Classes
 - [ ] 43 - Orientação Objetos - Referência de objetos
 - [ ] 44 - Orientação Objetos - Métodos pt 01
 - [ ] 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
