@@ -43,8 +43,8 @@
 - [X] 36 - Arrays Multidimensionais pt 01
 - [X] 37 - Arrays Multidimensionais pt 02 - Foreach
 - [X] 38 - Arrays Multidimensionais pt 03 - Inicialização
-- [ ] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
-- [ ] 40 - Orientação Objetos - Introdução classes pt 02
+- [X] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+- [X] 40 - Orientação Objetos - Introdução classes pt 02
 - [ ] 41 - Orientação Objetos - Introdução classes pt 03
 - [ ] 42 - Orientação Objetos - Exercício Classes
 - [ ] 43 - Orientação Objetos - Referência de objetos
