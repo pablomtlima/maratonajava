@@ -32,6 +32,6 @@ public class CarroTest01 {
         System.out.println(carro2.novo);
 
         System.out.println(carro1);
-        System.out.println(carro2 );
+        System.out.println(carro2);
     }
 }
