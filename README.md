@@ -50,7 +50,7 @@
 - [X] 43 - Orientação Objetos - Referência de objetos
 - [X] 44 - Orientação Objetos - Métodos pt 01
 - [X] 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-- [ ] 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
+- [X] 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
 - [ ] 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
 - [ ] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
 - [ ] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
