@@ -51,10 +51,10 @@
 - [X] 44 - Orientação Objetos - Métodos pt 01
 - [X] 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
 - [X] 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
-- [ ] 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
-- [ ] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
-- [ ] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
-- [ ] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
+- [X] 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
+- [X] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+- [X] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
+- [X] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 - [ ] 51 - Orientação Objetos - Métodos pt 08 - Referência this
 - [ ] 52 - Orientação Objetos - Métodos pt 09 - Varargs
 - [ ] 53 - Orientação Objetos - Métodos pt 10 - Exercise
