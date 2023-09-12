@@ -52,6 +52,7 @@ public class Calculadora {
     }
 
     public void SomaVarArgs(int... numeros) {
+
         int soma = 0;
         for (int num: numeros){
             soma += num;
