@@ -55,7 +55,7 @@
 - [X] 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
 - [X] 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
 - [X] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
-- [ ] 51 - Orientação Objetos - Métodos pt 08 - Referência this
+- [X] 51 - Orientação Objetos - Métodos pt 08 - Referência this
 - [ ] 52 - Orientação Objetos - Métodos pt 09 - Varargs
 - [ ] 53 - Orientação Objetos - Métodos pt 10 - Exercise
 - [ ] 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01

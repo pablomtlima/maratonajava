@@ -26,9 +26,9 @@ public class EstudanteTest01 {
         System.out.println(estudante01.name);
         System.out.println(estudante02.name);
 
-        System.out.println("________________");
 
         impressora.imprime(estudante01);
         impressora.imprime(estudante02);
+
     }
 }
