@@ -57,7 +57,7 @@
 - [X] 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 - [X] 51 - Orientação Objetos - Métodos pt 08 - Referência this
 - [X] 52 - Orientação Objetos - Métodos pt 09 - Varargs
-- [ ] 53 - Orientação Objetos - Métodos pt 10 - Exercise
+- [X] 53 - Orientação Objetos - Métodos pt 10 - Exercise
 - [ ] 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
 - [ ] 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 - [ ] 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
