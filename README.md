@@ -63,7 +63,7 @@
 - [X] 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
 - [X] 57 - Orientação Objetos - Sobrecarga de métodos
 - [X] 58 - Orientação Objetos - Construtores pt 01
-- [ ] 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
+- [X] 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
 - [ ] 60 - Orientação Objetos - Blocos de inicialização
 - [ ] 61 - Orientação Objetos - Modificador static
 - [ ] 62 - Orientação Objetos - Métodos estáticos
