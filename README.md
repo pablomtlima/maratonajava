@@ -61,7 +61,7 @@
 - [X] 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
 - [X] 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 - [X] 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
-- [ ] 57 - Orientação Objetos - Sobrecarga de métodos
+- [X] 57 - Orientação Objetos - Sobrecarga de métodos
 - [ ] 58 - Orientação Objetos - Construtores pt 01
 - [ ] 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
 - [ ] 60 - Orientação Objetos - Blocos de inicialização
