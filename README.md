@@ -67,7 +67,7 @@
 - [X] 60 - Orientação Objetos - Blocos de inicialização
 - [X] 61 - Orientação Objetos - Modificador static
 - [X] 62 - Orientação Objetos - Métodos estáticos
-- [ ] 63 - Orientação Objetos - Bloco de inicialização estático
+- [X] 63 - Orientação Objetos - Bloco de inicialização estático
 - [ ] 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
 - [ ] 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
 - [ ] 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
