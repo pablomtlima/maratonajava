@@ -65,7 +65,7 @@
 - [X] 58 - Orientação Objetos - Construtores pt 01
 - [X] 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
 - [X] 60 - Orientação Objetos - Blocos de inicialização
-- [ ] 61 - Orientação Objetos - Modificador static
+- [X] 61 - Orientação Objetos - Modificador static
 - [ ] 62 - Orientação Objetos - Métodos estáticos
 - [ ] 63 - Orientação Objetos - Bloco de inicialização estático
 - [ ] 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos

@@ -10,7 +10,7 @@ public class Anime {
 
     {
         System.out.println("Bloco de inicialização ");
-        episodios = new int[100];
+        episodios = new int[10];
 
         for (int i = 0; i < episodios.length; i++) {
             episodios[i] = i + 1;
