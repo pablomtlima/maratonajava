@@ -25,8 +25,6 @@ public class Anime {
         System.out.println("Bloco de inicialização 3");
     }
 
-
-
     public Anime(String nome) {
         this.nome = nome;
     }
