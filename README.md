@@ -69,8 +69,8 @@
 - [X] 62 - Orientação Objetos - Métodos estáticos
 - [X] 63 - Orientação Objetos - Bloco de inicialização estático
 - [X] 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
-- [ ] 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
-- [ ] 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
+- [X] 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
+- [X] 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
 - [ ] 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
 - [ ] 68 - Orientação Objetos - Leitura de dados pelo console
 - [ ] 69 - Orientação Objetos - Exercício leitura de dados do teclado
