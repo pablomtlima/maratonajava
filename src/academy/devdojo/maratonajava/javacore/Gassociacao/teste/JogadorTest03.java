@@ -9,6 +9,7 @@ public class JogadorTest03 {
         Jogador jogador2 = new Jogador("Pelé");
 
         Time time = new Time("Brasil");
+
         Jogador[] jogadores = {jogador,jogador2};
 
         jogador.setTime(time);
