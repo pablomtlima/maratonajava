@@ -3,6 +3,8 @@
 
 [Maratona Java Virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=fn9Nb1lQbqzHp6Jn)
 
+<img width="200px" src="https://github.com/pablomtlima/maratonajava/assets/78696750/12fa4453-6187-4d6a-a04d-cf35497a5b7e">
+
 ## Tópicos aprendidos neste repositório:
 
 - [X] 01 - O que esperar do curso
