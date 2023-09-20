@@ -73,9 +73,9 @@
 - [X] 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
 - [X] 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
 - [X] 68 - Orientação Objetos - Leitura de dados pelo console
-- [ ] 69 - Orientação Objetos - Exercício leitura de dados do teclado
-- [ ] 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
-- [ ] 71 - Orientação Objetos - Herança pt 01
+- [X] 69 - Orientação Objetos - Exercício leitura de dados do teclado
+- [X] 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
+- [X] 71 - Orientação Objetos - Herança pt 01
 - [ ] 72 - Orientação Objetos - Herança pt 02 - Super
 - [ ] 73 - Orientação Objetos - Herança pt 03 - protected
 - [ ] 74 - Orientação Objetos - Herança pt 04 - Construtores
