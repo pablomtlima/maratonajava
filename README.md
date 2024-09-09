@@ -6,11 +6,11 @@
 <img width="200px" src="https://github.com/pablomtlima/maratonajava/assets/78696750/12fa4453-6187-4d6a-a04d-cf35497a5b7e">
 
 ## Tópicos aprendidos neste repositório:
-
+oi
 - [X] 01 - O que esperar do curso
 - [X] 02 - Como Java Funciona
 - [X] 03 - Fazendo o download da JDK 15
-- [X] 04 - Configurando variáveis de ambiente
+- [X] 04 - Configurando      variáveis de ambiente
 - [X] 05 - Executando compilação manualmente
 - [X] 06 - Download da IDE IntelliJ Community
 - [X] 07 - Conhecendo a IDE IntelliJ Community

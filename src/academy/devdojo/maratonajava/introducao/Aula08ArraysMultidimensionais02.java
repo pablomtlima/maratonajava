@@ -1,5 +1,5 @@
 package academy.devdojo.maratonajava.introducao;
-
+// isso é um comentario
 public class Aula08ArraysMultidimensionais02 {
     public static void main(String[] args) {
         int[] array = {10, 20, 30, 40};

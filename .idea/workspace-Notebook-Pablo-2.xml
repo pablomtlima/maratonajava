@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d43816d7-2c25-4dbe-8764-bd30e1db4df0" name="Changes" comment="readme">
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pablomtlima&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d920f80-be74-4873-8beb-f2dfe202f738" />
+        <option name="url" value="git@github.com:pablomtlima/maratona-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2V72yPrILB5eg5cvWkchmmWWoiS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pablo/OneDrive/Java/JavaDojo/maratonajava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/SAMSUNG/OneDrive/Java/JavaDojo/maratonajava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.dominio" />
+      <recent name="academy.devdojo.maratonajava.javacore.Dconstrutores.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Dconstrutores.dominio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HerancaTest01">
+    <configuration name="HerancaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Hheranca.teste.HerancaTest01" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Hheranca.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.JogadorTest03" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeituraDoTeclado02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.LeituraDoTeclado02" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeituraDoTecladoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.LeituraDoTecladoTest01" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.SistemaTest" />
+      <module name="maratonajava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HerancaTest01" />
+        <item itemvalue="Application.SistemaTest" />
+        <item itemvalue="Application.LeituraDoTeclado02" />
+        <item itemvalue="Application.LeituraDoTecladoTest01" />
+        <item itemvalue="Application.JogadorTest03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d43816d7-2c25-4dbe-8764-bd30e1db4df0" name="Changes" comment="" />
+      <created>1694173056128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694173056128</updated>
+      <workItem from="1694173057224" duration="6908000" />
+      <workItem from="1694367818286" duration="11310000" />
+      <workItem from="1694383253411" duration="7294000" />
+      <workItem from="1694398165315" duration="19000" />
+      <workItem from="1694454555321" duration="1642000" />
+      <workItem from="1694482718464" duration="2477000" />
+      <workItem from="1694526298860" duration="5192000" />
+      <workItem from="1694542218930" duration="1744000" />
+      <workItem from="1694548340297" duration="122000" />
+      <workItem from="1694608118523" duration="19000" />
+      <workItem from="1694616415702" duration="720000" />
+      <workItem from="1694648989731" duration="5113000" />
+      <workItem from="1694705025623" duration="2973000" />
+      <workItem from="1694713423516" duration="2105000" />
+      <workItem from="1694720482047" duration="313000" />
+      <workItem from="1694739126567" duration="270000" />
+      <workItem from="1694739408035" duration="5809000" />
+      <workItem from="1694826504290" duration="1960000" />
+      <workItem from="1694896815978" duration="12403000" />
+      <workItem from="1694955063883" duration="13357000" />
+      <workItem from="1694980501858" duration="397000" />
+      <workItem from="1695210599921" duration="7836000" />
+      <workItem from="1695493035476" duration="99000" />
+    </task>
+    <task id="LOCAL-00001" summary="ok">
+      <option name="closed" value="true" />
+      <created>1694371119150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694371119150</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ok">
+      <option name="closed" value="true" />
+      <created>1694379299467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694379299467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aula 45 OK">
+      <option name="closed" value="true" />
+      <created>1694381562631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694381562631</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aula 46 OK">
+      <option name="closed" value="true" />
+      <created>1694383501027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694383501027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aula 47,48,49 e 50 OK">
+      <option name="closed" value="true" />
+      <created>1694397213637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694397213637</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aula 47,48,49 e 50 OK">
+      <option name="closed" value="true" />
+      <created>1694398175270</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694398175270</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aula 51 OK">
+      <option name="closed" value="true" />
+      <created>1694480195955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694480195955</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Aula 52 sobre varArgs OK">
+      <option name="closed" value="true" />
+      <created>1694482522979</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694482522979</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Aula 52  varArgs OK">
+      <option name="closed" value="true" />
+      <created>1694482602991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694482602991</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Aula 53 variáveis privadas, get e set OK">
+      <option name="closed" value="true" />
+      <created>1694529092497</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694529092497</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Aula 57 sobrecarga de métodos OK">
+      <option name="closed" value="true" />
+      <created>1694652328239</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694652328239</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Aula 58 construtores OK">
+      <option name="closed" value="true" />
+      <created>1694653696765</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694653696765</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Aula 60 blocos de inicialização OK">
+      <option name="closed" value="true" />
+      <created>1694740116962</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694740116962</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Aula 61 Modificador static OK">
+      <option name="closed" value="true" />
+      <created>1694742005068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694742005068</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Aula 62 Métodos estáticos OK">
+      <option name="closed" value="true" />
+      <created>1694743260586</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694743260586</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Aula 63 Bloco de inicialização estático OK">
+      <option name="closed" value="true" />
+      <created>1694744761637</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694744761637</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Aula 64 associacao OK">
+      <option name="closed" value="true" />
+      <created>1694828046468</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694828046468</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Aula 65 associacao OK">
+      <option name="closed" value="true" />
+      <created>1694900212771</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694900212771</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Aula 67 associacao bidirecional OK">
+      <option name="closed" value="true" />
+      <created>1694957279586</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694957279586</updated>
+    </task>
+    <task id="LOCAL-00020" summary="readme">
+      <option name="closed" value="true" />
+      <created>1695224597827</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1695224597827</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <MESSAGE value="Aula 45 OK" />
+    <MESSAGE value="Aula 46 OK" />
+    <MESSAGE value="Aula 47,48,49 e 50 OK" />
+    <MESSAGE value="Aula 51 OK" />
+    <MESSAGE value="Aula 52 sobre varArgs OK" />
+    <MESSAGE value="Aula 52  varArgs OK" />
+    <MESSAGE value="Aula 53 variáveis privadas, get e set OK" />
+    <MESSAGE value="Aula 57 sobrecarga de métodos OK" />
+    <MESSAGE value="Aula 58 construtores OK" />
+    <MESSAGE value="Aula 60 blocos de inicialização OK" />
+    <MESSAGE value="Aula 61 Modificador static OK" />
+    <MESSAGE value="Aula 62 Métodos estáticos OK" />
+    <MESSAGE value="Aula 63 Bloco de inicialização estático OK" />
+    <MESSAGE value="Aula 63 associacao OK" />
+    <MESSAGE value="Aula 64 associacao OK" />
+    <MESSAGE value="Aula 65 associacao OK" />
+    <MESSAGE value="Aula 66 associacao unilataral OK" />
+    <MESSAGE value="Aula 67 associacao bidirecional OK" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/praticando/Praticando.java</url>
+          <line>11</line>
+          <properties class="academy.devdojo.maratonajava.praticando.Praticando">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
