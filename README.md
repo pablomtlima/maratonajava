@@ -1,4 +1,5 @@
 # DevDojo Maratona Java
+
 [Criador do curso](https://www.linkedin.com/in/williamsuane/)
 
 [Maratona Java Virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=fn9Nb1lQbqzHp6Jn)
@@ -6,11 +7,13 @@
 <img width="200px" src="https://github.com/pablomtlima/maratonajava/assets/78696750/12fa4453-6187-4d6a-a04d-cf35497a5b7e">
 
 ## Tópicos aprendidos neste repositório:
+
 oi
+
 - [X] 01 - O que esperar do curso
 - [X] 02 - Como Java Funciona
 - [X] 03 - Fazendo o download da JDK 15
-- [X] 04 - Configurando      variáveis de ambiente
+- [X] 04 - Configurando variáveis de ambiente
 - [X] 05 - Executando compilação manualmente
 - [X] 06 - Download da IDE IntelliJ Community
 - [X] 07 - Conhecendo a IDE IntelliJ Community
@@ -18,9 +21,9 @@ oi
 - [X] 09 - Comentários
 - [X] 10 - Tipos primitivos pt 01 - Convenções de variáveis
 - [X] 11 - Tipos primitivos pt 02 - Declaração e tamanho em memória
-- [ ] 12 - Tipos primitivos pt 03 - Casting
-- [ ] 13 - Tipos primitivos pt 04 - Strings
-- [ ] 14 - Tipos primitivos pt 05 - Exercício
+- [X] 12 - Tipos primitivos pt 03 - Casting
+- [X] 13 - Tipos primitivos pt 04 - Strings
+- [X] 14 - Tipos primitivos pt 05 - Exercício
 - [ ] 15 - Operadores pt 01 - Aritméticos
 - [ ] 16 - Operadores pt 02 - Relacionais
 - [ ] 17 - Operadores pt 03 - Lógicos AND
