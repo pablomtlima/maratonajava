@@ -7,17 +7,17 @@
 
 ## Tópicos aprendidos neste repositório:
 oi
-- [ ] 01 - O que esperar do curso
-- [ ] 02 - Como Java Funciona
-- [ ] 03 - Fazendo o download da JDK 15
-- [ ] 04 - Configurando      variáveis de ambiente
-- [ ] 05 - Executando compilação manualmente
-- [ ] 06 - Download da IDE IntelliJ Community
-- [ ] 07 - Conhecendo a IDE IntelliJ Community
-- [ ] 08 - Organizando o código em pacotes
-- [ ] 09 - Comentários
-- [ ] 10 - Tipos primitivos pt 01 - Convenções de variáveis
-- [ ] 11 - Tipos primitivos pt 02 - Declaração e tamanho em memória
+- [X] 01 - O que esperar do curso
+- [X] 02 - Como Java Funciona
+- [X] 03 - Fazendo o download da JDK 15
+- [X] 04 - Configurando      variáveis de ambiente
+- [X] 05 - Executando compilação manualmente
+- [X] 06 - Download da IDE IntelliJ Community
+- [X] 07 - Conhecendo a IDE IntelliJ Community
+- [X] 08 - Organizando o código em pacotes
+- [X] 09 - Comentários
+- [X] 10 - Tipos primitivos pt 01 - Convenções de variáveis
+- [X] 11 - Tipos primitivos pt 02 - Declaração e tamanho em memória
 - [ ] 12 - Tipos primitivos pt 03 - Casting
 - [ ] 13 - Tipos primitivos pt 04 - Strings
 - [ ] 14 - Tipos primitivos pt 05 - Exercício
