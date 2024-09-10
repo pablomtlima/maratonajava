@@ -26,7 +26,7 @@ oi
 - [X] 14 - Tipos primitivos pt 05 - Exercício
 - [X] 15 - Operadores pt 01 - Aritméticos
 - [X] 16 - Operadores pt 02 - Relacionais
-- [ ] 17 - Operadores pt 03 - Lógicos AND
+- [X] 17 - Operadores pt 03 - Lógicos AND
 - [ ] 18 - Operadores pt 04 - Lógicos OR
 - [ ] 19 - Operadores pt 05 - Atribuição
 - [ ] 20 - Estruturas Condicionais pt 01 - IF
