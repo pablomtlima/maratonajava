@@ -24,8 +24,8 @@ oi
 - [X] 12 - Tipos primitivos pt 03 - Casting
 - [X] 13 - Tipos primitivos pt 04 - Strings
 - [X] 14 - Tipos primitivos pt 05 - Exercício
-- [ ] 15 - Operadores pt 01 - Aritméticos
-- [ ] 16 - Operadores pt 02 - Relacionais
+- [X] 15 - Operadores pt 01 - Aritméticos
+- [X] 16 - Operadores pt 02 - Relacionais
 - [ ] 17 - Operadores pt 03 - Lógicos AND
 - [ ] 18 - Operadores pt 04 - Lógicos OR
 - [ ] 19 - Operadores pt 05 - Atribuição
