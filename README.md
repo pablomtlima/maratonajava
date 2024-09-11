@@ -27,15 +27,15 @@ oi
 - [X] 15 - Operadores pt 01 - Aritméticos
 - [X] 16 - Operadores pt 02 - Relacionais
 - [X] 17 - Operadores pt 03 - Lógicos AND
-- [ ] 18 - Operadores pt 04 - Lógicos OR
-- [ ] 19 - Operadores pt 05 - Atribuição
-- [ ] 20 - Estruturas Condicionais pt 01 - IF
-- [ ] 21 - Estruturas Condicionais pt 02 - ELSE IF
-- [ ] 22 - Estruturas Condicionais pt 03 - Operador ternário
-- [ ] 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
-- [ ] 24 - Estruturas Condicionais pt 05 - Resolução do exercício
-- [ ] 25 - Estruturas Condicionais pt 06 - Switch
-- [ ] 26 - Estruturas Condicionais pt 07 - Switch exercício
+- [X] 18 - Operadores pt 04 - Lógicos OR
+- [X] 19 - Operadores pt 05 - Atribuição
+- [X] 20 - Estruturas Condicionais pt 01 - IF
+- [X] 21 - Estruturas Condicionais pt 02 - ELSE IF
+- [X] 22 - Estruturas Condicionais pt 03 - Operador ternário
+- [X] 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
+- [X] 24 - Estruturas Condicionais pt 05 - Resolução do exercício
+- [X] 25 - Estruturas Condicionais pt 06 - Switch
+- [X] 26 - Estruturas Condicionais pt 07 - Switch exercício
 - [ ] 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
 - [ ] 28 - Estruturas de Repetição pt 02 - Exercício for
 - [ ] 29 - Estruturas de Repetição pt 03 - Break
