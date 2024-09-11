@@ -16,8 +16,6 @@ public class Aula06EstruturasRepeticao01 {
         }
         while (count < 10);
 
-        count = 0;
-
         for (int i = 0; i < 10; i++) {
             System.out.println("Dentro do for " + i);
         }
