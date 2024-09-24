@@ -45,7 +45,7 @@ oi
 - [X] 33 - Arrays pt 02
 - [X] 34 - Arrays pt 03
 - [X] 35 - Arrays pt 04 - Foreach
-- [ ] 36 - Arrays Multidimensionais pt 01
+- [X] 36 - Arrays Multidimensionais pt 01
 - [ ] 37 - Arrays Multidimensionais pt 02 - Foreach
 - [ ] 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [ ] 39 - Orientação Objetos pt 01 - Introdução classes pt 01
