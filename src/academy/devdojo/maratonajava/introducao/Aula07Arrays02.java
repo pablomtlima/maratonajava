@@ -9,10 +9,16 @@ public class Aula07Arrays02 {
         String null
         */
 
-        char[] ages = new char[3];
+        String[] nomes = new String[4];
 
-        System.out.println(ages[0]);
-        System.out.println(ages[1]);
-        System.out.println(ages[2]);
+        nomes[0] = "Goku";
+        nomes[1] = "Gohan";
+        nomes[2] = "Luffy";
+
+        System.out.println(nomes);
+
+        nomes = new String[4];
+
+        System.out.println(nomes);
     }
 }

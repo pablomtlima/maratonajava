@@ -41,10 +41,10 @@ oi
 - [X] 29 - Estruturas de Repetição pt 03 - Break
 - [X] 30 - Estruturas de Repetição pt 04 - Exercício Break
 - [X] 31 - Estruturas de Repetição pt 05 - Continue
-- [ ] 32 - Arrays pt 01
-- [ ] 33 - Arrays pt 02
-- [ ] 34 - Arrays pt 03
-- [ ] 35 - Arrays pt 04 - Foreach
+- [X] 32 - Arrays pt 01
+- [X] 33 - Arrays pt 02
+- [X] 34 - Arrays pt 03
+- [X] 35 - Arrays pt 04 - Foreach
 - [ ] 36 - Arrays Multidimensionais pt 01
 - [ ] 37 - Arrays Multidimensionais pt 02 - Foreach
 - [ ] 38 - Arrays Multidimensionais pt 03 - Inicialização
