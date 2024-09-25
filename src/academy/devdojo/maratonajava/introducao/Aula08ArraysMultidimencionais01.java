@@ -23,5 +23,7 @@ public class Aula08ArraysMultidimencionais01 {
             }
             System.out.println("");
         }
+
+
     }
 }
